@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://jeevi.github.io/buttons/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/jeevi/buttons/tree/main/ui">
       Solution
     </a>
     <span> | </span>
@@ -43,7 +43,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 
-You can see the demo at jeevi.github.io
+You can see the demo at [Demo]https://jeevi.github.io/buttons/
 
 - What was your experience?
 
