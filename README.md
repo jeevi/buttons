@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Buttons</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -42,17 +42,26 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+
+You can see the demo at jeevi.github.io
+
 - What was your experience?
+
+It was a fun and learning experience. It made me get out of my comfort zone and learn about CSS grids and how to affect changes to buttons.
+
 - What have you learned/improved?
+
+I learnt more about CSS grids and general CSS properties
+
 - Your wisdom? :)
+
+Get out of your comfort zone as often as you can.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
 
 ## Features
 
@@ -64,29 +73,23 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This is an example, please update according to your application -->
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/jeevi/buttons.git
+
+# enter project directory
+$ cd buttons
 
 # Install dependencies
-$ npm install
+$ yarn install
 
 # Run the app
-$ npm start
+$ yarn start
 ```
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@jeevi](https://{github.com/jeevi})
+- Twitter [@4O4_not_foundd](https://{twitter.com/4O4_not_foundd})
